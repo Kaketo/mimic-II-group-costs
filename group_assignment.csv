@@ -1,0 +1,1000 @@
+﻿ID,FEATURE NAME,GROUP_ID
+0,Anion gap in Blood mean,1
+1,Anion gap in Blood median,1
+2,Anion gap in Blood std,1
+3,Anion gap in Blood range,1
+4,Calcium [Mass/volume] in Serum or Plasma mean,2
+5,Calcium [Mass/volume] in Serum or Plasma median,2
+6,Calcium [Mass/volume] in Serum or Plasma std,2
+7,Calcium [Mass/volume] in Serum or Plasma range,2
+8,Chloride [Moles/volume] in Blood mean,3
+9,Chloride [Moles/volume] in Blood median,3
+10,Chloride [Moles/volume] in Blood std,3
+11,Chloride [Moles/volume] in Blood range,3
+12,Creatinine [Mass/volume] in Serum or Plasma mean,4
+13,Creatinine [Mass/volume] in Serum or Plasma median,4
+14,Creatinine [Mass/volume] in Serum or Plasma std,4
+15,Creatinine [Mass/volume] in Serum or Plasma range,4
+16,Glucose [Mass/volume] in Serum or Plasma mean,5
+17,Glucose [Mass/volume] in Serum or Plasma median,5
+18,Glucose [Mass/volume] in Serum or Plasma std,5
+19,Glucose [Mass/volume] in Serum or Plasma range,5
+20,Magnesium [Mass/volume] in Serum or Plasma mean,6
+21,Magnesium [Mass/volume] in Serum or Plasma median,6
+22,Magnesium [Mass/volume] in Serum or Plasma std,6
+23,Magnesium [Mass/volume] in Serum or Plasma range,6
+24,Phosphate [Mass/volume] in Serum or Plasma mean,7
+25,Phosphate [Mass/volume] in Serum or Plasma median,7
+26,Phosphate [Mass/volume] in Serum or Plasma std,7
+27,Phosphate [Mass/volume] in Serum or Plasma range,7
+28,Potassium [Moles/volume] in Serum or Plasma mean,8
+29,Potassium [Moles/volume] in Serum or Plasma median,8
+30,Potassium [Moles/volume] in Serum or Plasma std,8
+31,Potassium [Moles/volume] in Serum or Plasma range,8
+32,Sodium [Moles/volume] in Serum or Plasma mean,9
+33,Sodium [Moles/volume] in Serum or Plasma median,9
+34,Sodium [Moles/volume] in Serum or Plasma std,9
+35,Sodium [Moles/volume] in Serum or Plasma range,9
+36,Bicarbonate [Moles/volume] in Serum mean,10
+37,Bicarbonate [Moles/volume] in Serum median,10
+38,Bicarbonate [Moles/volume] in Serum std,10
+39,Bicarbonate [Moles/volume] in Serum range,10
+40,Urea nitrogen [Mass/volume] in Serum or Plasma mean,11
+41,Urea nitrogen [Mass/volume] in Serum or Plasma median,11
+42,Urea nitrogen [Mass/volume] in Serum or Plasma std,11
+43,Urea nitrogen [Mass/volume] in Serum or Plasma range,11
+44,Hematocrit [Volume Fraction] of Blood mean,12
+45,Hematocrit [Volume Fraction] of Blood median,12
+46,Hematocrit [Volume Fraction] of Blood std,12
+47,Hematocrit [Volume Fraction] of Blood range,12
+48,Hemoglobin [Mass/volume] in Blood mean,13
+49,Hemoglobin [Mass/volume] in Blood median,13
+50,Hemoglobin [Mass/volume] in Blood std,13
+51,Hemoglobin [Mass/volume] in Blood range,13
+52,INR in Blood by Coagulation assay mean,14
+53,INR in Blood by Coagulation assay median,14
+54,INR in Blood by Coagulation assay std,14
+55,INR in Blood by Coagulation assay range,14
+56,Erythrocyte mean corpuscular hemoglobin [Entitic mass] mean,15
+57,Erythrocyte mean corpuscular hemoglobin [Entitic mass] median,15
+58,Erythrocyte mean corpuscular hemoglobin [Entitic mass] std,15
+59,Erythrocyte mean corpuscular hemoglobin [Entitic mass] range,15
+60,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume] mean,16
+61,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume] median,16
+62,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume] std,16
+63,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume] range,16
+64,Erythrocyte mean corpuscular volume [Entitic volume] mean,17
+65,Erythrocyte mean corpuscular volume [Entitic volume] median,17
+66,Erythrocyte mean corpuscular volume [Entitic volume] std,17
+67,Erythrocyte mean corpuscular volume [Entitic volume] range,17
+68,Platelets [#/volume] in Blood mean,18
+69,Platelets [#/volume] in Blood median,18
+70,Platelets [#/volume] in Blood std,18
+71,Platelets [#/volume] in Blood range,18
+72,Prothrombin time (PT) in Blood by Coagulation assay mean,19
+73,Prothrombin time (PT) in Blood by Coagulation assay median,19
+74,Prothrombin time (PT) in Blood by Coagulation assay std,19
+75,Prothrombin time (PT) in Blood by Coagulation assay range,19
+76,Erythrocytes [#/volume] in Blood mean,20
+77,Erythrocytes [#/volume] in Blood median,20
+78,Erythrocytes [#/volume] in Blood std,20
+79,Erythrocytes [#/volume] in Blood range,20
+80,Erythrocyte distribution width [Ratio] mean,21
+81,Erythrocyte distribution width [Ratio] median,21
+82,Erythrocyte distribution width [Ratio] std,21
+83,Erythrocyte distribution width [Ratio] range,21
+84,Leukocytes [#/volume] in Blood mean,22
+85,Leukocytes [#/volume] in Blood median,22
+86,Leukocytes [#/volume] in Blood std,22
+87,Leukocytes [#/volume] in Blood range,22
+88,Appearance of Urine freq CLEAR,23
+89,Appearance of Urine freq NOT CLEAR,23
+90,Bilirubin [Presence] in Urine freq NEG,24
+91,Bilirubin [Presence] in Urine freq POS,24
+92,Hemoglobin [Presence] in Urine by Test strip freq NEG,25
+93,Hemoglobin [Presence] in Urine by Test strip freq POS,25
+94,Color of Urine YELLOW,26
+95,Color of Urine OTHER,26
+96,Glucose [Mass/volume] in Urine mean,27
+97,Glucose [Mass/volume] in Urine median,27
+98,Glucose [Mass/volume] in Urine std,27
+99,Glucose [Mass/volume] in Urine range,27
+100,Ketones [Mass/volume] in Urine mean,28
+101,Ketones [Mass/volume] in Urine median,28
+102,Ketones [Mass/volume] in Urine std,28
+103,Ketones [Mass/volume] in Urine range,28
+104,Leukocytes [Presence] in Urine freq NEG,29
+105,Leukocytes [Presence] in Urine freq POS,29
+106,Nitrite [Presence] in Urine by Test strip freq NEG,30
+107,Nitrite [Presence] in Urine by Test strip freq POS,30
+108,pH of Urine mean,31
+109,pH of Urine median,31
+110,pH of Urine std,31
+111,pH of Urine range,31
+112,Protein [Mass/volume] in Urine by Test strip mean,32
+113,Protein [Mass/volume] in Urine by Test strip median,32
+114,Protein [Mass/volume] in Urine by Test strip std,32
+115,Protein [Mass/volume] in Urine by Test strip range,32
+116,Specific gravity of Urine by Test strip mean,33
+117,Specific gravity of Urine by Test strip median,33
+118,Specific gravity of Urine by Test strip std,33
+119,Specific gravity of Urine by Test strip range,33
+120,Urobilinogen [Mass/volume] in Urine mean,34
+121,Urobilinogen [Mass/volume] in Urine median,34
+122,Urobilinogen [Mass/volume] in Urine std,34
+123,Urobilinogen [Mass/volume] in Urine range,34
+124,age,0
+125,sex,0
+126,Activity Tolerance freq GOOD,0
+127,Activity Tolerance freq POOR,0
+128,Assistance Device freq INDEP,0
+129,Assistance Device freq NOT INDEP,0
+130,Body surface at admission value,35
+131,Bowel Sounds freq PRESENT,36
+132,Bowel Sounds freq ABSENT,36
+133,Braden Activity freq WALK,37
+134,Braden Activity freq BEDFAST,37
+135,Braden Frict/Shear freq NO PROB,38
+136,Braden Frict/Shear freq POT PROB,38
+137,Braden Frict/Shear freq PROB,38
+138,Braden Mobility freq NO LIMIT,39
+139,Braden Mobility freq LIMITED,39
+140,Braden Mobility freq NO MOB,39
+141,Braden Moisture freq RARELY,40
+142,Braden Moisture freq OCCAS,40
+143,Braden Moisture freq CONST,40
+144,Braden Nutrition freq EXCELLENT,41
+145,Braden Nutrition freq INADEQUAT,41
+146,Braden Nutrition freq POOR,41
+147,Braden SensoryPercep freq NO IMPAIR,42
+148,Braden SensoryPercep freq LIMITED,42
+149,Braden SensoryPercep freq VERY LIMIT,42
+150,Ectopy Frequency freq NONE,43
+151,Ectopy Frequency freq PRESENT,43
+152,Ectopy Type freq NONE,44
+153,Ectopy Type freq ECTOPY,44
+154,Eye Opening freq SPONTAN,45
+155,Eye Opening freq STIMUL,45
+156,Eye Opening freq NO,45
+157,Heart Rate mean,46
+158,Heart Rate median,46
+159,Heart Rate std,46
+160,Heart Rate range,46
+161,Heart Rhythm freq NORMAL,47
+162,Heart Rhythm freq NOT NORM,47
+163,IV Site Appear #1 freq WNL,48
+164,IV Site Appear #1 freq NOT WNL,48
+165,LLL Lung Sounds freq CLEAR,49
+166,LLL Lung Sounds freq NOT CLEAR,49
+167,LUL Lung Sounds freq CLEAR,49
+168,LUL Lung Sounds freq NOT CLEAR,49
+169,Level of Conscious freq ALERT,50
+170,Level of Conscious freq STIMUL,50
+171,Level of Conscious freq NO,50
+172,Motor Response freq OK,51
+173,Motor Response freq PAIN,51
+174,Motor Response freq NO,51
+175,NBP systolic mean,52
+176,NBP systolic median,52
+177,NBP systolic std,52
+178,NBP systolic range,52
+179,NBP diastolic mean,52
+180,NBP diastolic median,52
+181,NBP diastolic std,52
+182,NBP diastolic range,52
+183,Precautions freq UNIVERSAL,53
+184,Precautions freq CONTACT,53
+185,RLL Lung Sounds freq CLEAR,54
+186,RLL Lung Sounds freq NOT CLEAR,54
+187,RUL Lung Sounds freq CLEAR,54
+188,RUL Lung Sounds freq NOT CLEAR,54
+189,Respiratory Pattern freq REGULAR,55
+190,Respiratory Pattern freq IRREGULAR,55
+191,Respiratory Rate mean,56
+192,Respiratory Rate median,56
+193,Respiratory Rate std,56
+194,Respiratory Rate range,56
+195,Restraint Location freq NO,57
+196,Restraint Location freq YES,57
+197,Skin Integrity freq INTACT,58
+198,Skin Integrity freq IMPAIRED,58
+199,SpO2 mean,59
+200,SpO2 median,59
+201,SpO2 std,59
+202,SpO2 range,59
+203,Temperature C (calc) mean,60
+204,Temperature C (calc) median,60
+205,Temperature C (calc) std,60
+206,Temperature C (calc) range,60
+207,Urine Color freq YELLOW,61
+208,Urine Color freq OTHER,61
+209,Urine Appear freq CLEAR,61
+210,Urine Appear freq NOT CLEAR,61
+211,Verbal Response freq ORIENTED,62
+212,Verbal Response freq CONFUSED,62
+213,Verbal Response freq NO,62
+214,Admit Weight value,0
+215,BUN (6-20) mean,63
+216,BUN (6-20) median,63
+217,BUN (6-20) std,63
+218,BUN (6-20) range,63
+219,Calcium (8.4-10.2) mean,64
+220,Calcium (8.4-10.2) median,64
+221,Calcium (8.4-10.2) std,64
+222,Calcium (8.4-10.2) range,64
+223,Carbon Dioxide mean,65
+224,Carbon Dioxide median,65
+225,Carbon Dioxide std,65
+226,Carbon Dioxide range,65
+227,Chloride (100-112) mean,66
+228,Chloride (100-112) median,66
+229,Chloride (100-112) std,66
+230,Chloride (100-112) range,66
+231,Creatinine (0-1.3) mean,67
+232,Creatinine (0-1.3) median,67
+233,Creatinine (0-1.3) std,67
+234,Creatinine (0-1.3) range,67
+235,Glucose (70-105) mean,68
+236,Glucose (70-105) median,68
+237,Glucose (70-105) std,68
+238,Glucose (70-105) range,68
+239,Hematocrit mean,69
+240,Hematocrit median,69
+241,Hematocrit std,69
+242,Hematocrit range,69
+243,Hemoglobin mean,70
+244,Hemoglobin median,70
+245,Hemoglobin std,70
+246,Hemoglobin range,70
+247,INR (2-4 ref. range) mean,71
+248,INR (2-4 ref. range) median,71
+249,INR (2-4 ref. range) std,71
+250,INR (2-4 ref. range) range,71
+251,Magnesium (1.6-2.6) mean,72
+252,Magnesium (1.6-2.6) median,72
+253,Magnesium (1.6-2.6) std,72
+254,Magnesium (1.6-2.6) range,72
+255,PT(11-13.5) mean,73
+256,PT(11-13.5) median,73
+257,PT(11-13.5) std,73
+258,PT(11-13.5) range,73
+259,PTT(22-35) mean,74
+260,PTT(22-35) median,74
+261,PTT(22-35) std,74
+262,PTT(22-35) range,74
+263,Phosphorous(2.7-4.5) mean,75
+264,Phosphorous(2.7-4.5) median,75
+265,Phosphorous(2.7-4.5) std,75
+266,Phosphorous(2.7-4.5) range,75
+267,Platelets mean,76
+268,Platelets median,76
+269,Platelets std,76
+270,Platelets range,76
+271,Potassium (3.5-5.3) mean,77
+272,Potassium (3.5-5.3) median,77
+273,Potassium (3.5-5.3) std,77
+274,Potassium (3.5-5.3) range,77
+275,RBC mean,78
+276,RBC median,78
+277,RBC std,78
+278,RBC range,78
+279,Sodium (135-148) mean,79
+280,Sodium (135-148) median,79
+281,Sodium (135-148) std,79
+282,Sodium (135-148) range,79
+283,"WBC (4-11,000) mean",80
+284,"WBC (4-11,000) median",80
+285,"WBC (4-11,000) std",80
+286,"WBC (4-11,000) range",80
+287,Admit Height value,0
+288,Marital Status value,0
+289,Pain Present freq NO,81
+290,Pain Present freq YES,81
+291,Riker-SAS Scale freq CALM,82
+292,Riker-SAS Scale freq AGITATED,82
+293,Riker-SAS Scale freq SEDATED,82
+294,Hematologic SOFA Score freq 0,83
+295,Hematologic SOFA Score freq 1-2,83
+296,Hematologic SOFA Score freq 3-4,83
+297,MAP Cardiovascular SOFA Score freq 0,84
+298,MAP Cardiovascular SOFA Score freq 1-2,84
+299,Neurologic SOFA Score freq 0,85
+300,Neurologic SOFA Score freq 1-2,85
+301,Neurologic SOFA Score freq 3-4,85
+302,Renal SOFA Score freq 0,86
+303,Renal SOFA Score freq 1-2,86
+304,Renal SOFA Score freq 3-4,86
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
